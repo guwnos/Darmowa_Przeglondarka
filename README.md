@@ -1,4 +1,4 @@
 # Minecraft-2
-To jest wirus!
+Nowy minecraft
 
-# Kliknij Szczęśliwy Traf aby Włączyć Wirusa
+# Kliknij Szczęśliwy Traf aby Grać
